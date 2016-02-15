@@ -59,3 +59,8 @@ survey[] <- map2(survey, vars$label, function(x, label) {
     structure(x, label = label)
   }
 })
+
+
+# Save --------------------------------------------------------------------
+
+devtools::use_data(survey, overwrite = TRUE)
