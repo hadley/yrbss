@@ -50,6 +50,13 @@ replace_0 <- function(x) {
 
 survey[num_vars] <- survey[num_vars] %>% map(replace_0)
 
+
+# Convert dichotomous to logical ------------------------------------------
+
+dichot <- survey %>% names() %>% str_detect("^qn")
+
+survey[dichot] <- survey[dichot] %>% map(~ .x == 1)
+
 # Variable labels ---------------------------------------------------------
 
 survey[] <- map2(survey, vars$label, function(x, label) {
