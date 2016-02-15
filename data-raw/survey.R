@@ -4,7 +4,7 @@ library(purrr, warn.conflicts = FALSE)
 library(stringr)
 
 vars <- read_csv("data-raw/variables.csv")
-df <- read_fwf(
+raw <- read_fwf(
   "data-raw/sadc_2013_national.dat",
   col_positions = fwf_positions(vars$start, vars$end, vars$variable)
 )
@@ -31,9 +31,9 @@ factorise <- levels %>%
   split(grp) %>%
   map(parse_group) %>%
   flatten()
-factorise <- factorise[intersect(names(factorise), names(df))]
+factorise <- factorise[intersect(names(factorise), names(raw))]
 
-survey <- df
+survey <- raw
 for (var in names(factorise)) {
   cat(".")
   survey[[var]] <- factorise[[var]](survey[[var]])
@@ -60,6 +60,15 @@ survey[] <- map2(survey, vars$label, function(x, label) {
   }
 })
 
+# Drop variables containing only missing values ---------------------------
+
+all_missing <- function(x) all(is.na(x))
+
+# There are more columns with only missing values in survey because
+# a number of columns in raw only contained 0s
+
+survey %>% map_lgl(all_missing) %>% which %>% names
+survey <- survey %>% discard(all_missing)
 
 # Save --------------------------------------------------------------------
 
