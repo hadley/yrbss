@@ -1,0 +1,986 @@
+/
+ Q1
+1 '12 years old or younger'
+2 '13 years old'
+3 '14 years old'
+4 '15 years old'
+5 '16 years old'
+6 '17 years old'
+7 '18 years old or older'
+/
+ Q2
+1 'Female'
+2 'Male'
+/
+ Q3
+1 '9th grade'
+2 '10th grade'
+3 '11th grade'
+4 '12th grade'
+5 'Ungraded or other grade'
+/
+ Q4
+1 'Yes'
+2 'No'
+/
+ Q8
+1 'Did not ride a bicycle'
+2 'Never wore a helmet'
+3 'Rarely wore a helmet'
+4 'Sometimes wore a helmet'
+5 'Most of the time wore a helmet'
+6 'Always wore a helmet'
+/
+ Q9
+1 'Never'
+2 'Rarely'
+3 'Sometimes'
+4 'Most of the time'
+5 'Always'
+/
+ Q10
+1 '0 times'
+2 '1 time'
+3 '2 or 3 times'
+4 '4 or 5 times'
+5 '6 or more times'
+/
+ Q11
+1 'I did not drive the past 30 days'
+2 '0 times'
+3 '1 time'
+4 '2 or 3 times'
+5 '4 or 5 times'
+6 '6 or more times'
+/
+ Q12
+1 'I did not drive the past 30 days'
+2 '0 days'
+3 '1 or 2 days'
+4 '3 to 5 days'
+5 '6 to 9 days'
+6 '10 to 19 days'
+7 '20 to 29 days'
+8 'All 30 days'
+/
+ Q13
+1 '0 days'
+2 '1 day'
+3 '2 or 3 days'
+4 '4 or 5 days'
+5 '6 or more days'
+/
+ Q14
+1 '0 days'
+2 '1 day'
+3 '2 or 3 days'
+4 '4 or 5 days'
+5 '6 or more days'
+/
+ Q15
+1 '0 days'
+2 '1 day'
+3 '2 or 3 days'
+4 '4 or 5 days'
+5 '6 or more days'
+/
+ Q16
+1 '0 days'
+2 '1 day'
+3 '2 or 3 days'
+4 '4 or 5 days'
+5 '6 or more days'
+/
+ Q17
+1 '0 times'
+2 '1 time'
+3 '2 or 3 times'
+4 '4 or 5 times'
+5 '6 or 7 times'
+6 '8 or 9 times'
+7 '10 or 11 times'
+8 '12 or more times'
+/
+ Q18
+1 '0 times'
+2 '1 time'
+3 '2 or 3 times'
+4 '4 or 5 times'
+5 '6 or 7 times'
+6 '8 or 9 times'
+7 '10 or 11 times'
+8 '12 or more times'
+/
+ Q19
+1 '0 times'
+2 '1 time'
+3 '2 or 3 times'
+4 '4 or 5 times'
+5 '6 or more times'
+/
+ Q20
+1 '0 times'
+2 '1 time'
+3 '2 or 3 times'
+4 '4 or 5 times'
+5 '6 or 7 times'
+6 '8 or 9 times'
+7 '10 or 11 times'
+8 '12 or more times'
+/
+ Q21
+1 'Yes'
+2 'No'
+/
+ Q22
+1 'I did not date the past 12 months'
+2 '0 times'
+3 '1 time'
+4 '2 or 3 times'
+5 '4 or 5 times'
+6 '6 or more times'
+/
+ Q23
+1 'I did not date the past 12 months'
+2 '0 times'
+3 '1 time'
+4 '2 or 3 times'
+5 '4 or 5 times'
+6 '6 or more times'
+/
+ Q24
+1 'Yes'
+2 'No'
+/
+ Q25
+1 'Yes'
+2 'No'
+/
+ Q26
+1 'Yes'
+2 'No'
+/
+ Q27
+1 'Yes'
+2 'No'
+/
+ Q28
+1 'Yes'
+2 'No'
+/
+ Q29
+1 '0 times'
+2 '1 time'
+3 '2 or 3 times'
+4 '4 or 5 times'
+5 '6 or more times'
+/
+ Q30
+1 'Did not attempt suicide'
+2 'Yes'
+3 'No'
+/
+ Q31
+1 'Yes'
+2 'No'
+/
+ Q32
+1 'Never smoked a cigarette'
+2 '8 years old or younger'
+3 '9 or 10 years old'
+4 '11 or 12 years old'
+5 '13 or 14 years old'
+6 '15 or 16 years old'
+7 '17 years old or older'
+/
+ Q33
+1 '0 days'
+2 '1 or 2 days'
+3 '3 to 5 days'
+4 '6 to 9 days'
+5 '10 to 19 days'
+6 '20 to 29 days'
+7 'All 30 days'
+/
+ Q34
+1 'Did not smoke cigarettes'
+2 'Less than 1 cigarette'
+3 '1 cigarette'
+4 '2 to 5 cigarettes'
+5 '6 to 10 cigarettes'
+6 '11 to 20 cigarettes'
+7 'More than 20 cigarettes'
+/
+ Q35
+1 'Did not smoke cigarettes'
+2 'Store or gas station'
+3 'Vending machine'
+4 'Someone else bought them'
+5 'Borrowed/bummed them'
+6 'A person 18 or older'
+7 'Took them from store/family'
+8 'Some other way'
+/
+ Q36
+1 '0 days'
+2 '1 or 2 days'
+3 '3 to 5 days'
+4 '6 to 9 days'
+5 '10 to 19 days'
+6 '20 to 29 days'
+7 'All 30 days'
+/
+ Q37
+1 'Yes'
+2 'No'
+/
+ Q38
+1 'Did not smoke in past 12 mos'
+2 'Yes'
+3 'No'
+/
+ Q39
+1 '0 days'
+2 '1 or 2 days'
+3 '3 to 5 days'
+4 '6 to 9 days'
+5 '10 to 19 days'
+6 '20 to 29 days'
+7 'All 30 days'
+/
+ Q40
+1 '0 days'
+2 '1 or 2 days'
+3 '3 to 5 days'
+4 '6 to 9 days'
+5 '10 to 19 days'
+6 '20 to 29 days'
+7 'All 30 days'
+/
+ Q41
+1 '0 days'
+2 '1 or 2 days'
+3 '3 to 9 days'
+4 '10 to 19 days'
+5 '20 to 39 days'
+6 '40 to 99 days'
+7 '100 or more days'
+/
+ Q42
+1 'Never drank alcohol'
+2 '8 years old or younger'
+3 '9 or 10 years old'
+4 '11 or 12 years old'
+5 '13 or 14 years old'
+6 '15 or 16 years old'
+7 '17 years old or older'
+/
+ Q43
+1 '0 days'
+2 '1 or 2 days'
+3 '3 to 5 days'
+4 '6 to 9 days'
+5 '10 to 19 days'
+6 '20 to 29 days'
+7 'All 30 days'
+/
+ Q44
+1 '0 days'
+2 '1 day'
+3 '2 days'
+4 '3 to 5 days'
+5 '6 to 9 days'
+6 '10 to 19 days'
+7 '20 or more days'
+/
+ Q45
+1 'Did not drink in past 30 days'
+2 '1 or 2 drinks'
+3 '3 drinks'
+4 '4 drinks'
+5 '5 drinks'
+6 '6 or 7 drinks'
+7 '8 or 9 drinks'
+8 '10 or more drinks'
+/
+ Q46
+1 'Did not drink in past 30 days'
+2 'Bought in store'
+3 'Bought in restaurant'
+4 'Bought at public event'
+5 'I gave someone money to buy'
+6 'Someone gave it to me'
+7 'Took from store/family'
+8 'I got it some other way'
+/
+ Q47
+1 '0 times'
+2 '1 or 2 times'
+3 '3 to 9 times'
+4 '10 to 19 times'
+5 '20 to 39 times'
+6 '40 to 99 times'
+7 '100 or more times'
+/
+ Q48
+1 'Never tried marijuana'
+2 '8 years old or younger'
+3 '9 or 10 years old'
+4 '11 or 12 years old'
+5 '13 or 14 years old'
+6 '15 or 16 years old'
+7 '17 years old or older'
+/
+ Q49
+1 '0 times'
+2 '1 or 2 times'
+3 '3 to 9 times'
+4 '10 to 19 times'
+5 '20 to 39 times'
+6 '40 or more times'
+/
+ Q50
+1 '0 times'
+2 '1 or 2 times'
+3 '3 to 9 times'
+4 '10 to 19 times'
+5 '20 to 39 times'
+6 '40 or more times'
+/
+ Q51
+1 '0 times'
+2 '1 or 2 times'
+3 '3 to 9 times'
+4 '10 to 19 times'
+5 '20 to 39 times'
+6 '40 or more times'
+/
+ Q52
+1 '0 times'
+2 '1 or 2 times'
+3 '3 to 9 times'
+4 '10 to 19 times'
+5 '20 to 39 times'
+6 '40 or more times'
+/
+ Q53
+1 '0 times'
+2 '1 or 2 times'
+3 '3 to 9 times'
+4 '10 to 19 times'
+5 '20 to 39 times'
+6 '40 or more times'
+/
+ Q54
+1 '0 times'
+2 '1 or 2 times'
+3 '3 to 9 times'
+4 '10 to 19 times'
+5 '20 to 39 times'
+6 '40 or more times'
+/
+ Q55
+1 '0 times'
+2 '1 or 2 times'
+3 '3 to 9 times'
+4 '10 to 19 times'
+5 '20 to 39 times'
+6 '40 or more times'
+/
+ Q56
+1 '0 times'
+2 '1 or 2 times'
+3 '3 to 9 times'
+4 '10 to 19 times'
+5 '20 to 39 times'
+6 '40 or more times'
+/
+ Q57
+1 '0 times'
+2 '1 time'
+3 '2 or more times'
+/
+ Q58
+1 'Yes'
+2 'No'
+/
+ Q59
+1 'Yes'
+2 'No'
+/
+ Q60
+1 'Never had sex'
+2 '11 years old or younger'
+3 '12 years old'
+4 '13 years old'
+5 '14 years old'
+6 '15 years old'
+7 '16 years old'
+8 '17 years old or older'
+/
+ Q61
+1 'Never had sex'
+2 '1 person'
+3 '2 people'
+4 '3 people'
+5 '4 people'
+6 '5 people'
+7 '6 or more people'
+/
+ Q62
+1 'Never had sex'
+2 'None during past 3 months'
+3 '1 person'
+4 '2 people'
+5 '3 people'
+6 '4 people'
+7 '5 people'
+8 '6 or more people'
+/
+ Q63
+1 'Never had sex'
+2 'Yes'
+3 'No'
+/
+ Q64
+1 'Never had sex'
+2 'Yes'
+3 'No'
+/
+ Q65
+1 'Never had sex'
+2 'No method was used'
+3 'Birth control pills'
+4 'Condoms'
+5 'IUD or implant'
+6 'A shot, patch, or birth control ring'
+7 'Withdrawal or some other method'
+8 'Not sure'
+/
+ Q66
+1 'Very underweight'
+2 'Slightly underweight'
+3 'About the right weight'
+4 'Slightly overweight'
+5 'Very overweight'
+/
+ Q67
+1 'Lose weight'
+2 'Gain weight'
+3 'Stay the same weight'
+4 'Not trying to do anything'
+/
+ Q68
+1 'Yes'
+2 'No'
+/
+ Q69
+1 'Yes'
+2 'No'
+/
+ Q70
+1 'Yes'
+2 'No'
+/
+ Q71
+1 'Did not drink fruit juice'
+2 '1 to 3 times'
+3 '4 to 6 times'
+4 '1 time per day'
+5 '2 times per day'
+6 '3 times per day'
+7 '4 or more times per day'
+/
+ Q72
+1 'Did not eat fruit'
+2 '1 to 3 times'
+3 '4 to 6 times'
+4 '1 time per day'
+5 '2 times per day'
+6 '3 times per day'
+7 '4 or more times per day'
+/
+ Q73
+1 'Did not eat green salad'
+2 '1 to 3 times'
+3 '4 to 6 times'
+4 '1 time per day'
+5 '2 times per day'
+6 '3 times per day'
+7 '4 or more times per day'
+/
+ Q74
+1 'Did not eat potatoes'
+2 '1 to 3 times'
+3 '4 to 6 times'
+4 '1 time per day'
+5 '2 times per day'
+6 '3 times per day'
+7 '4 or more times per day'
+/
+ Q75
+1 'Did not eat carrots'
+2 '1 to 3 times'
+3 '4 to 6 times'
+4 '1 time per day'
+5 '2 times per day'
+6 '3 times per day'
+7 '4 or more times per day'
+/
+ Q76
+1 'Did not eat other vegetables'
+2 '1 to 3 times'
+3 '4 to 6 times'
+4 '1 time per day'
+5 '2 times per day'
+6 '3 times per day'
+7 '4 or more times per day'
+/
+ Q77
+1 'Did not drink soda or pop'
+2 '1 to 3 times'
+3 '4 to 6 times'
+4 '1 time per day'
+5 '2 times per day'
+6 '3 times per day'
+7 '4 or more times per day'
+/
+ Q78
+1 'Did not drink milk'
+2 '1 to 3 glasses'
+3 '4 to 6 glasses'
+4 '1 glass per day'
+5 '2 glasses per day'
+6 '3 glasses per day'
+7 '4 or more glasses per day'
+/
+ Q79
+1 '0 days'
+2 '1 day'
+3 '2 days'
+4 '3 days'
+5 '4 days'
+6 '5 days'
+7 '6 days'
+8 '7 days'
+/
+ Q80
+1 '0 days'
+2 '1 day'
+3 '2 days'
+4 '3 days'
+5 '4 days'
+6 '5 days'
+7 '6 days'
+8 '7 days'
+/
+ Q81
+1 'No TV on average school day'
+2 'Less than 1 hour per day'
+3 '1 hour per day'
+4 '2 hours per day'
+5 '3 hours per day'
+6 '4 hours per day'
+7 '5 or more hours per day'
+/
+ Q82
+1 'No playing video/computer game'
+2 'Less than 1 hour per day'
+3 '1 hour per day'
+4 '2 hours per day'
+5 '3 hours per day'
+6 '4 hours per day'
+7 '5 or more hours per day'
+/
+ Q83
+1 '0 days'
+2 '1 day'
+3 '2 days'
+4 '3 days'
+5 '4 days'
+6 '5 days'
+/
+ Q84
+1 '0 teams'
+2 '1 team'
+3 '2 teams'
+4 '3 or more teams'
+/
+ Q85
+1 'Yes'
+2 'No'
+3 'Not sure'
+/
+ Q86
+1 'Yes'
+2 'No'
+3 'Not sure'
+/
+ qhallucDrug
+1 "0 times"
+2 "1 or 2 times"
+3 "3 to 9 times"
+4 "10 to 19 times"
+5 "20 to 39 times"
+6 "40 or more times"
+/
+ qmusclestrength
+1 "0 days"
+2 "1 day"
+3 "2 days"
+4 "3 days"
+5 "4 days"
+6 "5 days"
+7 "6 days"
+8 "7 days"
+/
+ qhivtesting
+1 "Yes"
+2 "No"
+3 "Not sure"
+/
+ qsunscreenuse
+1 "Never"
+2 "Rarely"
+3 "Sometimes"
+4 "Most of the time"
+5 "Always"
+/
+ qindoortanning
+1 "0 times"
+2 "1 or 2 times"
+3 "3 to 9 times"
+4 "10 to 19 times"
+5 "20 to 39 times"
+6 "40 or more times"
+/
+ QSLEEP
+1 "4 or less hours"
+2 "5 hours"
+3 "6 hours"
+4 "7 hours"
+5 "8 hours"
+6 "9 hours"
+7 "10 or more hours"
+/
+ qacademic
+1 "Mostly A's"
+2 "Mostly B's"
+3 "Mostly C's"
+4 "Mostly D's"
+5 "Mostly F's"
+6 "None of these grades"
+7 "Not sure"
+/
+ qsexid
+1 "Heterosexual (straight)"
+2 "Gay or lesbian"
+3 "Bisexual"
+4 "Not Sure"
+5 "None of the above"
+/
+ qsexpart
+1 "I have never had sexual contact"
+2 "Females"
+3 "Males"
+4 "Females and males"
+/
+ qgenderexp
+1 "Very feminine"
+2 "Mostly feminine"
+3 "Somewhat feminine"
+4 "Equally feminine and masculine"
+5 "Somewhat masculine"
+6 "Mostly masculine"
+7 "Very masculine"
+/
+ qcelldriving
+1 "I did not drive a car or other vehicle during the past 30 days"
+2 "0 days"
+3 "1 or 2 days"
+4 "3 to 5 days"
+5 "6 to 9 days"
+6 "10 to 19 days"
+7 "20 to 29 days"
+8 "All 30 days"
+/
+ qbullyweight
+1 "Yes"
+2 "No"
+/
+ qbullygay
+1 "Yes"
+2 "No"
+/
+ qtypealcohol
+1 "I did not drink alcohol during the past 30 days"
+2 "I do not have a usual type"
+3 "Beer"
+4 "Flavored malt beverages"
+5 "Wine coolers"
+6 "Wine"
+7 "Liquor"
+8 "Some other type"
+/
+ qcigschool
+1 "0 days"
+2 "1 or 2 days"
+3 "3 to 5 days"
+4 "6 to 9 days"
+5 "10 to 19 days"
+6 "20 to 29 days"
+7 "All 30 days"
+/
+ qchewtobschool
+1 "0 days"
+2 "1 or 2 days"
+3 "3 to 5 days"
+4 "6 to 9 days"
+5 "10 to 19 days"
+6 "20 to 29 days"
+7 "All 30 days"
+/
+ qalcoholschool
+1 "0 days"
+2 "1 or 2 days"
+3 "3 to 5 days"
+4 "6 to 9 days"
+5 "10 to 19 days"
+6 "20 to 29 days"
+7 "All 30 days"
+/
+ qmarijuanaschool
+1 "0 times"
+2 "1 or 2 times"
+3 "3 to 9 times"
+4 "10 to 19 times"
+5 "20 to 39 times"
+6 "40 or more times"
+/
+ qsynthmarijuana
+1 "0 times"
+2 "1 or 2 times"
+3 "3 to 9 times"
+4 "10 to 19 times"
+5 "20 to 39 times"
+6 "40 to 99 times"
+7 "100 or more times"
+/
+ qprescription30d
+1 "0 times"
+2 "1 or 2 times"
+3 "3 to 9 times"
+4 "10 to 19 times"
+5 "20 to 39 times"
+6 "40 or more times"
+/
+ qcurrentcocaine
+1 "0 times"
+2 "1 or 2 times"
+3 "3 to 9 times"
+4 "10 to 19 times"
+5 "20 to 39 times"
+6 "40 or more times"
+/
+ qcurrentasthma
+1 "I have never had asthma"
+2 "Yes"
+3 "No"
+4 "Not Sure"
+/
+ qtaughtsexed
+1 "Yes"
+2 "No"
+3 "Not sure"
+/
+ qtaughtstd
+1 "Yes"
+2 "No"
+3 "Not sure"
+/
+ qtaughtbc
+1 "Yes"
+2 "No"
+3 "Not sure"
+/
+ qtaughtabstinence
+1 "Yes"
+2 "No"
+3 "Not sure"
+/
+ qdietpop
+1 "Did not drink diet soda or pop"
+2 "1 to 3 times"
+3 "4 to 6 times"
+4 "1 time per day"
+5 "2 times per day"
+6 "3 times per day"
+7 "4 or more times per day"
+/
+ qcoffeetea
+1 "Did not drink coffee or tes"
+2 "1 to 3 times"
+3 "4 to 6 times"
+4 "1 time per day"
+5 "2 times per day"
+6 "3 times per day"
+7 "4 or more times per day"
+/
+ qsportsdrink
+1 "Did not drink sports drink"
+2 "1 to 3 times"
+3 "4 to 6 times"
+4 "1 time per day"
+5 "2 times per day"
+6 "3 times per day"
+7 "4 or more times per day"
+/
+ qenergydrink
+1 "Did not drink energy drink"
+2 "1 to 3 times"
+3 "4 to 6 times"
+4 "1 time per day"
+5 "2 times per day"
+6 "3 times per day"
+7 "4 or more times per day"
+/
+ qsugardrink
+1 "Did not drink sugar drinks"
+2 "1 to 3 times"
+3 "4 to 6 times"
+4 "1 time per day"
+5 "2 times per day"
+6 "3 times per day"
+7 "4 or more times per day"
+/
+ qwater
+1 "Did not drink water"
+2 "1 to 3 times"
+3 "4 to 6 times"
+4 "1 time per day"
+5 "2 times per day"
+6 "3 times per day"
+7 "4 or more times per day"
+/
+ qfastfood
+1 "0 days"
+2 "1 day"
+3 "2 days"
+4 "3 days"
+5 "4 days"
+6 "5 days"
+7 "6 days"
+8 "7 days"
+/
+ SEX
+1 "Female"
+2 "Male"
+/
+ AGE
+1 "12 years old or younger"
+2 "13 years old"
+3 "14 years old"
+4 "15 years old"
+5 "16 years old"
+6 "17 years old"
+7 "18 years old or older"
+/
+ GRADE
+1 "9th"
+2 "10th"
+3 "11th"
+4 "12th"
+/
+ RACE4
+1 "White"
+2 "Black or African American"
+3 "Hispanic/Latino"
+4 "All other races"
+/
+ RACE7
+1 "Am Indian / Alaska Native"
+2 "Asian"
+3 "Black or African American"
+4 "Hispanic/Latino"
+5 "Native Hawaiian/other PI"
+6 "White"
+7 "Multiple - Non-Hispanic"
+/
+ sexid
+1 "Heterosexual"
+2 "Gay or Lesbian"
+3 "Bisexual"
+4 "Not Sure"
+/
+	sexid2
+1 "Heterosexual"
+2 "Sexual Minority"
+3 "Unsure"
+/
+ sexpart
+1 "Never had sex"
+2 "Opposite sex only"
+3 "Same sex only"
+4 "Both Sexes"
+/
+ sexpart2
+1 "Never had sex"
+2 "Opposite sex only"
+3 "Same sex only or both sexes"
+/
+ sitecode
+'AK' 'Alaska'
+'AL' 'Alabama'
+'AR' 'Arkansas'
+'AZB' 'Arizona'
+'CT' 'Connecticut'
+'GA' 'Georgia'
+'HI' 'Hawaii'
+'ID' 'Idaho'
+'IL' 'Illinois'
+'KS' 'Kansas'
+'KY' 'Kentucky'
+'LA' 'Louisiana'
+'MD' 'Maryland'
+'ME' 'Maine'
+'MI' 'Michigan'
+'MO' 'Missouri'
+'MS' 'Mississippi'
+'MT' 'Montana'
+'NC' 'North Carolina'
+'ND' 'North Dakota'
+'NE' 'Nebraska'
+'NH' 'New Hampshire'
+'NJ' 'New Jersey'
+'NM' 'New Mexico'
+'NV' 'Nevada'
+'NY' 'New York'
+'OK' 'Oklahoma'
+'RI' 'Rhode Island'
+'SC' 'South Carolina'
+'TN' 'Tennessee'
+'TX' 'Texas'
+'UT' 'Utah'
+'VA' 'Virginia'
+'VT' 'Vermont'
+'WI' 'Wisconsin'
+'WV' 'West Virginia'
+'WY' 'Wyoming'
+'XX' 'United States'
+'FT' 'Broward County, FL'
+'CH' 'Chicago, IL'
+'DU' 'Duval County, FL'
+'LO' 'Los Angeles, CA'
+'MEM' 'Memphis, TN'
+'MM' 'Miami-Dade County, FL'
+'NYC' 'New York City, NY'
+'NYG' 'Borough of Bronx, NY'
+'NhH' 'Borough of Brooklyn, NY'
+'NYI' 'Borough of Manhattan, NY'
+'NYJ' 'Borough of Queens, NY'
+'NYK' 'Borough of Staten Island, NY'
+'OL' 'Orange County, FL'
+'PB' 'Palm Beach County, FL'
+'SA' 'San Diego, CA'
+'SB' 'San Bernardino, CA'
+'SE' 'Seattle, WA'

@@ -20,9 +20,7 @@ bmi,190,197,Body Mass Index
 bmipct,198,205,BMI percentile
 qnobese,206,208,Obese
 qnowt,209,211,Overweight
-qsexid,212,212,Which best describes you (LGB)
 qsexid,212,212,Original sexual identity variable
-qsexpart,213,213,With whom sex contact lifetime
 qsexpart,213,213,Original sex of sex contact(s)
 sexid,214,221,Sexual identity
 sexid2,222,229,Collapsed sexual identity
