@@ -6,7 +6,7 @@ Authors@R: c(
     person("RStudio", role = "cph")
   )
 Description: Data from the youth risk behaviour surveillance system (YRBSS)
-  for 1991-2013.
-Depends: R (>= 3.2.3)
-License: GPL-3
+    for 1991-2013.
+License: CC0
 LazyData: true
+RoxygenNote: 5.0.1
