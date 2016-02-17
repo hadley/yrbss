@@ -10,3 +10,5 @@ Description: Data from the youth risk behaviour surveillance system (YRBSS)
 License: CC0
 LazyData: true
 RoxygenNote: 5.0.1
+URL: https://github.com/hadley/yrbss
+BugReports: https://github.com/hadley/yrbss/issues
