@@ -3,6 +3,15 @@ library(dplyr, warn.conflicts = FALSE)
 library(purrr, warn.conflicts = FALSE)
 library(stringr)
 
+if (!file.exists("data-raw/sadc_2013_national.dat")) {
+  temp <- tempfile(fileext = ".zip")
+  download.file(
+    "ftp://ftp.cdc.gov/pub/data/yrbs/SADC_2013/sadc_2013_national_ASCII.zip",
+    temp
+  )
+  unzip(temp, exdir = "data-raw", junkpaths = TRUE)
+}
+
 vars <- read_csv("data-raw/variables.csv")
 raw <- read_fwf(
   "data-raw/sadc_2013_national.dat",
